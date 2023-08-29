@@ -1,5 +1,5 @@
 # Hi 👋
-My name is Lucas Anderson and I'm currently a senior at the University of Wisconsin Madison. I'm working towards a B.S. computer science and a B.S. in mathematics.
+My name is Lucas Anderson and I'm currently a senior at the University of Wisconsin Madison. I'm working towards a B.S. in computer science and a B.S. in mathematics.
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,java,c)](https://skillicons.dev)
