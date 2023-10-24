@@ -8,7 +8,7 @@ My name is Lucas Anderson and I'm currently a senior at the University of Wiscon
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,jest,bootstrap)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,webpack,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,webpack,bash,vim)](https://skillicons.dev)
 
 <!-- ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=landerson02&show_icons=true&theme=react&&hide_border=true) -->
 
