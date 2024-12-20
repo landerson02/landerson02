@@ -1,17 +1,16 @@
 # Hi 👋
-My name is Lucas Anderson and I'm currently a senior at the University of Wisconsin Madison. I'm working towards a B.S. in computer science and a B.S. in mathematics, graduating in May 2024. 
-In the fall I will be starting an M.S. in Quantum Computing at UW-Madison in the [MSPQC](https://www.physics.wisc.edu/graduate/mspqc-program/) program.
+My name is Lucas Anderson, and I am currently pursuing a graduate degree in Quantum Computing at the University of Wisconsin-Madison. In May 2024, I earned a B.S. in Computer Science and Mathematics. 
 
 Feel free to check out my website at [lucasanderson.me](https://lucasanderson.me)
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,py,java,c,cpp,cs,rust)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,jest,nextjs,tailwind,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,dotnet,django)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,webpack,bash,neovim,anaconda,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,neovim,postman,npm,mysql,mongodb)](https://skillicons.dev)
 
 <!-- ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=landerson02&show_icons=true&theme=react&&hide_border=true) -->
 
